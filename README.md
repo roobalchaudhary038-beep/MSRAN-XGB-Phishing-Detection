@@ -41,6 +41,11 @@ pip install scikit-learn xgboost lightgbm shap lime seaborn pandas scipy torch
 ---
 
  Dataset
+ Dataset and Data Availability
+1. https://doi.org/10.24432/C51W2X  
+2.https://www.kaggle.com/datasets/akashkr/phishing-website-dataset 
+<img width="468" height="63" alt="image" src="https://github.com/user-attachments/assets/1ff01d51-d75d-4e8c-9f6f-54d864d720f4" />
+
 
 | Source | Format | Auto-detected filename |
 |--------|--------|----------------------|
